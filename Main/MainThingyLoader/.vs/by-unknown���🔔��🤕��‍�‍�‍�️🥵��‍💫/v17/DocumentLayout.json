@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Coding\\projects\\ShittyRatReversed\\Main\\MainThingyLoader\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D37FEEF1-1DCF-412A-8D86-C48A89688049}|by-unknown\uFFFD\uFFFD\uFFFD\uD83D\uDD14\uFFFD\uFFFD\uD83E\uDD15\uFFFD\uFFFD\u200D\uFFFD\u200D\uFFFD\u200D\uFFFD\uFE0F\uD83E\uDD75\uFFFD\uFFFD\u200D\uD83D\uDCAB\\by-unknown\uFFFD\uFFFD\uFFFD\uD83D\uDD14\uFFFD\uFFFD\uD83E\uDD15\uFFFD\uFFFD\u200D\uFFFD\u200D\uFFFD\u200D\uFFFD\uFE0F\uD83E\uDD75\uFFFD\uFFFD\u200D\uD83D\uDCAB.csproj|c:\\users\\user\\desktop\\coding\\projects\\shittyratreversed\\main\\mainthingyloader\\by-unknown\uFFFD\uFFFD\uFFFD\uD83D\uDD14\uFFFD\uFFFD\uD83E\uDD15\uFFFD\uFFFD\u200D\uFFFD\u200D\uFFFD\u200D\uFFFD\uFE0F\uD83E\uDD75\uFFFD\uFFFD\u200D\uD83D\uDCAB\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D37FEEF1-1DCF-412A-8D86-C48A89688049}|by-unknown\uFFFD\uFFFD\uFFFD\uD83D\uDD14\uFFFD\uFFFD\uD83E\uDD15\uFFFD\uFFFD\u200D\uFFFD\u200D\uFFFD\u200D\uFFFD\uFE0F\uD83E\uDD75\uFFFD\uFFFD\u200D\uD83D\uDCAB\\by-unknown\uFFFD\uFFFD\uFFFD\uD83D\uDD14\uFFFD\uFFFD\uD83E\uDD15\uFFFD\uFFFD\u200D\uFFFD\u200D\uFFFD\u200D\uFFFD\uFE0F\uD83E\uDD75\uFFFD\uFFFD\u200D\uD83D\uDCAB.csproj|solutionrelative:by-unknown\uFFFD\uFFFD\uFFFD\uD83D\uDD14\uFFFD\uFFFD\uD83E\uDD15\uFFFD\uFFFD\u200D\uFFFD\u200D\uFFFD\u200D\uFFFD\uFE0F\uD83E\uDD75\uFFFD\uFFFD\u200D\uD83D\uDCAB\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D37FEEF1-1DCF-412A-8D86-C48A89688049}|by-unknown\uFFFD\uFFFD\uFFFD\uD83D\uDD14\uFFFD\uFFFD\uD83E\uDD15\uFFFD\uFFFD\u200D\uFFFD\u200D\uFFFD\u200D\uFFFD\uFE0F\uD83E\uDD75\uFFFD\uFFFD\u200D\uD83D\uDCAB\\by-unknown\uFFFD\uFFFD\uFFFD\uD83D\uDD14\uFFFD\uFFFD\uD83E\uDD15\uFFFD\uFFFD\u200D\uFFFD\u200D\uFFFD\u200D\uFFFD\uFE0F\uD83E\uDD75\uFFFD\uFFFD\u200D\uD83D\uDCAB.csproj|C:\\Users\\user\\Desktop\\Coding\\projects\\ShittyRatReversed\\Main\\MainThingyLoader\\by-unknown\uFFFD\uFFFD\uFFFD\uD83D\uDD14\uFFFD\uFFFD\uD83E\uDD15\uFFFD\uFFFD\u200D\uFFFD\u200D\uFFFD\u200D\uFFFD\uFE0F\uD83E\uDD75\uFFFD\uFFFD\u200D\uD83D\uDCAB\\ynktdw5rbm93bu\u002B-vekajekap\u002B\u002B-ve\u002B-vfcfm4hvv73vv73wn6yr77\u002B977\u002B9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D37FEEF1-1DCF-412A-8D86-C48A89688049}|by-unknown\uFFFD\uFFFD\uFFFD\uD83D\uDD14\uFFFD\uFFFD\uD83E\uDD15\uFFFD\uFFFD\u200D\uFFFD\u200D\uFFFD\u200D\uFFFD\uFE0F\uD83E\uDD75\uFFFD\uFFFD\u200D\uD83D\uDCAB\\by-unknown\uFFFD\uFFFD\uFFFD\uD83D\uDD14\uFFFD\uFFFD\uD83E\uDD15\uFFFD\uFFFD\u200D\uFFFD\u200D\uFFFD\u200D\uFFFD\uFE0F\uD83E\uDD75\uFFFD\uFFFD\u200D\uD83D\uDCAB.csproj|solutionrelative:by-unknown\uFFFD\uFFFD\uFFFD\uD83D\uDD14\uFFFD\uFFFD\uD83E\uDD15\uFFFD\uFFFD\u200D\uFFFD\u200D\uFFFD\u200D\uFFFD\uFE0F\uD83E\uDD75\uFFFD\uFFFD\u200D\uD83D\uDCAB\\ynktdw5rbm93bu\u002B-vekajekap\u002B\u002B-ve\u002B-vfcfm4hvv73vv73wn6yr77\u002B977\u002B9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\AppData\\Local\\Temp\\.vsdbgsrc\\44c9ac88ec28a83071cadaba8c4cf0430cf42e9c3941b94ad03ee3a9eeb53851\\CryptoAPITransform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Coding\\projects\\ShittyRatReversed\\Main\\MainThingyLoader\\by-unknown\uFFFD\uFFFD\uFFFD\uD83D\uDD14\uFFFD\uFFFD\uD83E\uDD15\uFFFD\uFFFD\u200D\uFFFD\u200D\uFFFD\u200D\uFFFD\uFE0F\uD83E\uDD75\uFFFD\uFFFD\u200D\uD83D\uDCAB\\Program.cs",
+              "RelativeDocumentMoniker": "by-unknown\uFFFD\uFFFD\uFFFD\uD83D\uDD14\uFFFD\uFFFD\uD83E\uDD15\uFFFD\uFFFD\u200D\uFFFD\u200D\uFFFD\u200D\uFFFD\uFE0F\uD83E\uDD75\uFFFD\uFFFD\u200D\uD83D\uDCAB\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Coding\\projects\\ShittyRatReversed\\Main\\MainThingyLoader\\by-unknown\uFFFD\uFFFD\uFFFD\uD83D\uDD14\uFFFD\uFFFD\uD83E\uDD15\uFFFD\uFFFD\u200D\uFFFD\u200D\uFFFD\u200D\uFFFD\uFE0F\uD83E\uDD75\uFFFD\uFFFD\u200D\uD83D\uDCAB\\Program.cs",
+              "RelativeToolTip": "by-unknown\uFFFD\uFFFD\uFFFD\uD83D\uDD14\uFFFD\uFFFD\uD83E\uDD15\uFFFD\uFFFD\u200D\uFFFD\u200D\uFFFD\u200D\uFFFD\uFE0F\uD83E\uDD75\uFFFD\uFFFD\u200D\uD83D\uDCAB\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T09:09:43.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CryptoAPITransform.cs",
+              "DocumentMoniker": "C:\\Users\\user\\AppData\\Local\\Temp\\.vsdbgsrc\\44c9ac88ec28a83071cadaba8c4cf0430cf42e9c3941b94ad03ee3a9eeb53851\\CryptoAPITransform.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\44c9ac88ec28a83071cadaba8c4cf0430cf42e9c3941b94ad03ee3a9eeb53851\\CryptoAPITransform.cs",
+              "ToolTip": "C:\\Users\\user\\AppData\\Local\\Temp\\.vsdbgsrc\\44c9ac88ec28a83071cadaba8c4cf0430cf42e9c3941b94ad03ee3a9eeb53851\\CryptoAPITransform.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\44c9ac88ec28a83071cadaba8c4cf0430cf42e9c3941b94ad03ee3a9eeb53851\\CryptoAPITransform.cs",
+              "ViewState": "AQIAAAQBAAAAAAAAAAAEwBwBAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T17:06:19.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "YnktdW5rbm93bu\u002B-veKAjeKap\u002B\u002B-ve\u002B-vfCfm4Hvv73vv73wn6yr77\u002B977\u002B9.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Coding\\projects\\ShittyRatReversed\\Main\\MainThingyLoader\\by-unknown\uFFFD\uFFFD\uFFFD\uD83D\uDD14\uFFFD\uFFFD\uD83E\uDD15\uFFFD\uFFFD\u200D\uFFFD\u200D\uFFFD\u200D\uFFFD\uFE0F\uD83E\uDD75\uFFFD\uFFFD\u200D\uD83D\uDCAB\\YnktdW5rbm93bu\u002B-veKAjeKap\u002B\u002B-ve\u002B-vfCfm4Hvv73vv73wn6yr77\u002B977\u002B9.cs",
+              "RelativeDocumentMoniker": "by-unknown\uFFFD\uFFFD\uFFFD\uD83D\uDD14\uFFFD\uFFFD\uD83E\uDD15\uFFFD\uFFFD\u200D\uFFFD\u200D\uFFFD\u200D\uFFFD\uFE0F\uD83E\uDD75\uFFFD\uFFFD\u200D\uD83D\uDCAB\\YnktdW5rbm93bu\u002B-veKAjeKap\u002B\u002B-ve\u002B-vfCfm4Hvv73vv73wn6yr77\u002B977\u002B9.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Coding\\projects\\ShittyRatReversed\\Main\\MainThingyLoader\\by-unknown\uFFFD\uFFFD\uFFFD\uD83D\uDD14\uFFFD\uFFFD\uD83E\uDD15\uFFFD\uFFFD\u200D\uFFFD\u200D\uFFFD\u200D\uFFFD\uFE0F\uD83E\uDD75\uFFFD\uFFFD\u200D\uD83D\uDCAB\\YnktdW5rbm93bu\u002B-veKAjeKap\u002B\u002B-ve\u002B-vfCfm4Hvv73vv73wn6yr77\u002B977\u002B9.cs",
+              "RelativeToolTip": "by-unknown\uFFFD\uFFFD\uFFFD\uD83D\uDD14\uFFFD\uFFFD\uD83E\uDD15\uFFFD\uFFFD\u200D\uFFFD\u200D\uFFFD\u200D\uFFFD\uFE0F\uD83E\uDD75\uFFFD\uFFFD\u200D\uD83D\uDCAB\\YnktdW5rbm93bu\u002B-veKAjeKap\u002B\u002B-ve\u002B-vfCfm4Hvv73vv73wn6yr77\u002B977\u002B9.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAcwFoAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T09:09:43.116Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

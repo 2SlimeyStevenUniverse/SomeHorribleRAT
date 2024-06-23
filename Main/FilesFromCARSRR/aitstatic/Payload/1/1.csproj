@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProjectGuid>{017B3BCB-72AA-4800-A8ED-FD1975DCB564}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>1</RootNamespace>
+    <AssemblyName>1</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+    <StartupObject>gABnQAtYCmKpzr.JKZtGSJvleDLz</StartupObject>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="EADZTItgrNQRpJ\pNrvhOtlLw.cs" />
+    <Compile Include="EADZTItgrNQRpJ\QgdMwzwmBNxxthQiZ.cs" />
+    <Compile Include="gABnQAtYCmKpzr\DtGwtEkGICI.cs" />
+    <Compile Include="gABnQAtYCmKpzr\JKZtGSJvleDLz.cs" />
+    <Compile Include="oTiwFUvkNMk\htOBdxkAFmgu.cs" />
+    <Compile Include="oTiwFUvkNMk\tEcAUWUzShC.cs" />
+    <Compile Include="oTiwFUvkNMk\yShwkEhQzhMNua.cs" />
+    <Compile Include="oTiwFUvkNMk\zbFTmTjDNABfl.cs" />
+    <Compile Include="oTiwFUvkNMk\ZyIZzlJSeO.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="vKSmRqGoNtRxzam\rIfzBHOgIAYDt.cs" />
+    <Compile Include="vKSmRqGoNtRxzam\tyektVkGihNsvBB.cs" />
+    <Compile Include="vKSmRqGoNtRxzam\ZwxluPyBen.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="app.manifest" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="OixnHMNAaUcrj\" />
+    <Folder Include="tDgPiIhcHqofGyt\" />
+    <Folder Include="UyguxhBPvmUM\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

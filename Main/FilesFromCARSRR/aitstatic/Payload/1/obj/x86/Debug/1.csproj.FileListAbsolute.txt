@@ -1,0 +1,2 @@
+C:\Users\user\Desktop\ShittyRatReversed\Main\FilesFromCARSRR\aitstatic\Payload\1\obj\x86\Debug\1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ShittyRatReversed\Main\FilesFromCARSRR\aitstatic\Payload\1\obj\x86\Debug\1.csproj.CoreCompileInputs.cache

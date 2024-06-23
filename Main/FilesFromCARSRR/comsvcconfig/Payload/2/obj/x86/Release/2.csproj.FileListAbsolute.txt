@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\ShittyRatReversed\Main\FilesFromCARSRR\comsvcconfig\Payload\2\obj\x86\Release\2.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ShittyRatReversed\Main\FilesFromCARSRR\comsvcconfig\Payload\2\obj\x86\Release\2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ShittyRatReversed\Main\FilesFromCARSRR\comsvcconfig\Payload\2\bin\Release\2.exe.config
+C:\Users\user\Desktop\ShittyRatReversed\Main\FilesFromCARSRR\comsvcconfig\Payload\2\bin\Release\2.exe
+C:\Users\user\Desktop\ShittyRatReversed\Main\FilesFromCARSRR\comsvcconfig\Payload\2\bin\Release\2.pdb
+C:\Users\user\Desktop\ShittyRatReversed\Main\FilesFromCARSRR\comsvcconfig\Payload\2\obj\x86\Release\2.exe
+C:\Users\user\Desktop\ShittyRatReversed\Main\FilesFromCARSRR\comsvcconfig\Payload\2\obj\x86\Release\2.pdb
