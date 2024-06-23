@@ -30,4 +30,4 @@ Source code is for EDUCATIONAL PURPOSES ONLY!!!! 2SLIMEY DOESNT SUPPORT SPREADIN
 
 [Account used 2 host the archives](https://github.com/bvcsurs/)
 
-[Account used 4 the Infected sourcecode](https://github.com/bvcsurs/)
+[Account used 4 the Infected sourcecode](https://github.com/chavex777/)
