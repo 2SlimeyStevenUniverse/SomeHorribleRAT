@@ -21,6 +21,8 @@ The entire Sourcecode is provided in this repo as well as The original files
 
 Some of the Variable names are encrypted, I decided to pull the ones that are related to the server.
 
+Source code is for EDUCATIONAL PURPOSES ONLY!!!! 2SLIMEY DOESNT SUPPORT SPREADING MALWARE ON GITHUB!!
+
 
 
 
